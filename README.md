@@ -1,3 +1,2 @@
 # jsr
-Java Specification Requests 
-fork mercyblitz jsr
+Java Specification Requests
